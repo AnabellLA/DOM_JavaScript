@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.parrafos {
+    background-color: peachpuff;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0 20px 0;
+}
+.bandanas {
+    background-color: pink;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.img {
+    width: 250px;
+    height: 250px;
+}
