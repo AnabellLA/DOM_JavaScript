@@ -12,9 +12,6 @@ class Registro {
 let formRegistro = document.getElementById('formRegistro')
 let botonRegistro = document.getElementById('botonRegistro')
 let divRegistro = document.getElementById('divRegistro')
-let botonAdmin = document.getElementById('botonAdmin')
-let divAdmin = document.getElementById('divAdmin')
-
 
 let registros = []
 
